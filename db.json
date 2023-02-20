@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": "12345671",
+      "title": "The Lion King",
+      "director": "Francis Ford Coppola",
+      "ReleaseDate": "2023-03-24",
+      "Rating": "9.2"
+    },
+    {
+      "id": "23456782",
+      "title": "Die Hard",
+      "director": "John McTiernan",
+      "releaseDate": "1988-07-20",
+      "rating": "8.2"
+    },
+    {
+      "id": "34567893",
+      "title": "The Hangover",
+      "director": "Todd Phillips",
+      "releaseDate": "2009-06-05",
+      "rating": "7.7"
+    },
+    {
+      "id": "45678904",
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "releaseDate": "1994-09-23",
+      "rating": "9.3"
+    },
+    {
+      "id": "56789015",
+      "title": "The Exorcist",
+      "director": "William Friedkin",
+      "releaseDate": "1973-12-26",
+      "rating": "8.0"
+    }
+  ]
+}
